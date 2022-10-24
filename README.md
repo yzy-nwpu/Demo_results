@@ -1,7 +1,7 @@
 # The name of paper: 
 SPEECH DEREVERBERATION USING WEIGHTED PREDICTION ERROR WITH PRIOR LEARNT FROM DATA 
 # Authors: 
-Ziye Yang, Wenxing Yang, Kai Xie, Jie Chen.
+Ziye Yang, Wenxing Yang, Kai Xie, Jie Chen
 # Affiliation:
 CIAIC, School of Marine Science and Technology, Northwestern Polytechnical University, China
 # The abstract of paper: 
