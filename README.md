@@ -10,5 +10,5 @@ robustness by incorporating sophisticated speech priors. Recent research demonst
 # About this project
 1. You can find some of our experimental results in this project.
 2. The codes will be available soon in this project.
-3. More details can be found in the corresponding paper which is submitted to ICASSP 2023.
+3. More details can be found in the corresponding paper which has been submitted to ICASSP 2023.
 # If you have any questions, please contact us at yzy97@mail.nwpu.edu.cn.
